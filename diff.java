@@ -4,7 +4,7 @@ public class java
     {
         int b=10 ;
         int c=5 ;
-        System.out.print(b-c) ;
+        System.out.print(b+c) ;
 
     }
 }
